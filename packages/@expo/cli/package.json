@@ -109,7 +109,7 @@
     "terminal-link": "^2.1.1",
     "toqr": "^0.1.1",
     "wrap-ansi": "^7.0.0",
-    "ws": "^8.12.1",
+    "ws": "^8.21.0",
     "zod": "^3.25.76"
   },
   "peerDependencies": {
@@ -126,7 +126,7 @@
     }
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
+    "@babel/core": "^7.29.6",
     "@expo/fingerprint": "workspace:*",
     "@expo/mcp-tunnel": "~0.2.3",
     "@expo/ngrok": "^4.1.3",
